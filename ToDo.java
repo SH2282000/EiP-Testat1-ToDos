@@ -1,5 +1,5 @@
 
-// Copyright (CC-BY-SA) 2020 shannaX. All rights reserved. See http://github.com/sh2282000//
+// Copyright (CC-BY-SA) 2020 shannaX. All rights reserved. See http://github.com/sh2282000/
 
 import java.time.*;
 import java.util.*;
